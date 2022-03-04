@@ -1,0 +1,43 @@
+Write the program to Booked onlline ticket 
+
+
+Display [***Booking Onlline Tickets ***]  
+
+  
+1) User has Enter Name :
+
+Display[Welcome 'NAME' to booking onlline ticket ]
+
+
+2) User has Enter Your Location Where you have to go :
+3) then from you have to go:
+Display [ Let me check......
+          there is only one Bus Available ]
+
+
+Display [Enter your mobile number to check if you are eligible for offer or not : ]
+
+
+4) then give it to 25% offer 
+
+Display [Congratulations his 'name' and say you are eligible for 25% discount so you have to pay 800$ only]
+
+
+5) If you have to booked your seat please enter all the details below : 
+
+6) ask for aadar card number : 
+   
+
+Display [ his name :
+          mobile number :
+          aadar card number:
+	        from to where go : 
+                               ]
+	
+Display [If this information is right press Enter so we can send OTP to Your mobile number]
+
+Display [Enter : ]
+
+
+
+
